@@ -1,0 +1,5 @@
+This is a test file for the TTS program.
+It contains multiple sentences to demonstrate text-to-speech conversion.
+The quick brown fox jumps over the lazy dog.
+Programming in C++ is fun and challenging.
+Text-to-speech technology has many practical applications.

@@ -17,4 +17,8 @@ AIProject 是一个致力于每天开发一个基于人工智能技术的小工�
     技术栈：Python, OpenCV, NumPy
     需要本地安装 Python, OpenCV, NumPy
 
-- 20280812 
+- 20280828 开发一个文本转语音的工具
+  - 功能：将文本转换为语音
+    用法：./TTS -f test.txt
+    需要技术栈：C++
+    需要本地安装：eSpeak-ng 库

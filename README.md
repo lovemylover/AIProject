@@ -22,3 +22,9 @@ AIProject 是一个致力于每天开发一个基于人工智能技术的小工�
     用法：./TTS -f test.txt
     需要技术栈：C++
     需要本地安装：eSpeak-ng 库
+
+- 20280829 开发一个rtp解析服务端与发送客户端demo
+  - 功能：解析rtp包与发送rtp包
+    用法：./rtp_server
+    需要技术栈：go
+    需要本地安装：go语言环境

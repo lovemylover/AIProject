@@ -1,0 +1,3 @@
+/Users/leo/code/work/AIProject/C++Flv-player/build/CMakeFiles/flvcpp.dir
+/Users/leo/code/work/AIProject/C++Flv-player/build/CMakeFiles/edit_cache.dir
+/Users/leo/code/work/AIProject/C++Flv-player/build/CMakeFiles/rebuild_cache.dir

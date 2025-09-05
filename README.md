@@ -29,14 +29,19 @@ AIProject 是一个致力于每天开发一个基于人工智能技术的小工�
     需要技术栈：go
     需要本地安装：go语言环境
 
- -20250903 开发一个ffmpeg的cgo库
-   - 功能：调用ffmpeg的api
+-20250903 开发一个ffmpeg的cgo库
+  - 功能：调用ffmpeg的api
     - 用法：./ffmpeg_cgo
     - 需要技术栈：cgo
     - 需要本地安装：ffmpeg库
 
- -20250904开发一个基于C++与Ffmpeg的FLV播放器
+-20250904开发一个基于C++与Ffmpeg的FLV播放器
   - 功能：播放flv视频
-  - 用法：./flv_player <视频路径>
-  - 需要技术栈：C++
-  - 需要本地安装：ffmpeg库 
+    - 用法：./flv_player <视频路径>
+    - 需要技术栈：C++
+    - 需要本地安装：ffmpeg库 
+-20250905 开发一个基于ffmpeg的对视频进行截图的工具
+  - 功能：截图
+    - 用法：./snap <视频路径> <输出目录>
+    - 需要技术栈：C++
+    - 需要本地安装：ffmpeg库
